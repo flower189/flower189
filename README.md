@@ -10,13 +10,13 @@ I work with these technologies and tools:
 ### Front-end :page_with_curl:
 ![HTML](https://img.shields.io/badge/-HTML-grey?style=flat&logo=html5&labelColor=E34F26&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-grey?style=flat&logo=css3&labelColor=1572B6&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-grey?style=flat&logo=c-sharp&labelColor=239120&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript&labelColor=F7DF1E&logoColor=fff)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&labelColor=7952B3&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/-jQuery-grey?style=flat&logo=jquery&labelColor=0769AD&logoColor=fff)
 
 ### Back-end :nut_and_bolt:
+![C#](https://img.shields.io/badge/-C%23-grey?style=flat&logo=c-sharp&labelColor=239120&logoColor=fff)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-grey?style=flat&logo=.net&labelColor=512BD4&logoColor=fff)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-grey?style=flat&logo=.net&labelColor=512BD4&logoColor=fff)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-grey?style=flat&logo=microsoft-sql-server&labelColor=CC2927&logoColor=fff)

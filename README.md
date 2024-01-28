@@ -30,6 +30,6 @@ I work with these technologies and tools:
 ## Find me on :loudspeaker:
 You can find me online in these places:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-grey?style=flat&logo=twitter&labelColor=1DA1F2&logoColor=fff)](https://www.twitter.com/jamesuk189)
+[![X](https://img.shields.io/badge/-X%20/%20Twitter-grey?style=flat&logo=x&labelColor=000&logoColor=fff)](https://www.twitter.com/jamesuk189)
 [![Blog](https://img.shields.io/badge/-Blog-grey?style=flat&logo=google-earth&labelColor=4285F4&logoColor=fff)](https://jflower.co.uk)
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-grey?style=flat&logo=stackoverflow&labelColor=F58025&logoColor=fff)](https://stackoverflow.com/users/1245086/)

@@ -13,7 +13,7 @@ I work with these technologies and tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript&labelColor=F7DF1E&logoColor=fff)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&labelColor=7952B3&logoColor=fff)
-![jQuery](https://img.shields.io/badge/-jQuery-grey?style=flat&logo=jquery&labelColor=0769AD&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-grey?style=flat&logo=tailwindcss&labelColor=38bdf8&logoColor=fff)
 
 ### Back-end :nut_and_bolt:
 ![C#](https://img.shields.io/badge/-C%23-grey?style=flat&logo=c-sharp&labelColor=239120&logoColor=fff)
